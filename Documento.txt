@@ -3,6 +3,7 @@ En este documentos ponemos:
 * Hacemos un fork de este repositorio.
 * Modificamos lo que sea, incluso este mismo documento.
 * Hacemos un pull request
-* Y desde la organización se aceptan los cambios.
+* Y desde la organizaciÃ³n se aceptan los cambios.
 
 NOTA: debemos mandar la url con el commit del pull request aceptado (cada uno de nosotros)
+Hola
